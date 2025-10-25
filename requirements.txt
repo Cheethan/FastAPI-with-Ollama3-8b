@@ -4,4 +4,4 @@ pydantic
 langchain
 langchain-ollama
 requests
-pydantic[email]==2.6.2
+email-validator
